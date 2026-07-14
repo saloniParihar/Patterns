@@ -184,32 +184,6 @@ while i <= n:
       j += 1
    i += 1
 
-<<<<<<< HEAD
-=======
-#_____________________________________________
-"""A
-   BB
-   CCC
-   DDDD
-   EEEEE"""
-
-n = 5
-i = 1
-ch= 65
-while i<=n:
-   print()
-   j = 1
-   while j<=i:
-       print(chr(ch),end="")
-       j= j+1
-   ch = ch +1
-   i += 1
-
-
-
-
-
->>>>>>> 15f38e084e581fde8ef34cafcdc74248ba2f7a58
 
 
 
